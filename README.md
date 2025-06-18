@@ -1,59 +1,66 @@
 # 👋 Hi, I’m Mohammad Ali
 
-![Profile](https://img.shields.io/badge/Aspiring-Engineer-blue?style=flat-square)  
-![Civil](https://img.shields.io/badge/Civil%20Engineering-Diploma-informational?style=flat-square)  
-![Tech](https://img.shields.io/badge/Exploring-WebDev%2FAndroid%2FCybersecurity%2FAI%2FML%2FAerospace%2FIoT-yellow?style=flat-square)
-
----
-
-## 🏢 About Me
-
-💡 I build meaningful, high-value software solutions focused on efficiency and scalability.  
-🧩 I design modular systems: **LMS platforms**, **duplication detection tools**, **custom version control systems**.  
-🎯 I believe in deep focus—software that delivers maximum impact.
+![Engineer](https://img.shields.io/badge/Aspiring%20Engineer-Civil%2C%20Software%2C%20Cybersecurity-blue?style=flat-square)
+![Diploma](https://img.shields.io/badge/Diploma-Civil%20Engineering-informational?style=flat-square)
+![Explorer](https://img.shields.io/badge/Exploring-Web%2FAndroid%2FCyber%2FAI%2FAerospace%2FIoT-yellow?style=flat-square)
 
 ---
 
 ## 🛠️ Skills
 
-![MERN](https://img.shields.io/badge/MERN%20Stack-4C8CBF?logo=javascript&logoColor=white&style=flat-square)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
+### 💻 Backend & Frontend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)  
+![EJS](https://img.shields.io/badge/EJS-FFCA28?style=flat-square)  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+
+### ⚙️ Tools & Other Tech  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
 ---
 
-## 📁 Projects
+## 📂 Projects
 
-- **FileGuardian** ![MERN](https://img.shields.io/badge/MERN-Stack-blue?style=flat-square)  
-  Smart duplication detection using SHA-256 hashes (zero file storage)
+### 🛡️ FileGuardian  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
+Prevent file duplication (SHA-256 hashes, no file storage)
 
-- **Revu** ![Git](https://img.shields.io/badge/Custom%20Git-inspired-lightgrey?style=flat-square)  
-  Lightweight version control system
+### 🔧 Revu  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)  
+Git-inspired lightweight version control
 
-- **Expense Tracker Web App** ![Java](https://img.shields.io/badge/Java%20EE-orange?style=flat-square)  
-  Expense management with reports/dashboards
+### 💰 Expense Tracker  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
+Java app for expense management (JSP + Servlets)
 
-- **Custom DNS Server with Pi-hole** ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060c?logo=pi-hole&logoColor=white&style=flat-square)  
-  Ad-blocking and privacy setup
+### 🌐 Pi-hole DNS  
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pi-hole&logoColor=white&style=flat-square)  
+Self-hosted DNS for ad blocking
 
-- **Mini Projects**  
-  LingoLinker, Quiz Genius, BodyCheck Mate, Weather App, CalcSwift, Notes Maker
+### 🎓 Nexus LMS  
+![MERN](https://img.shields.io/badge/MERN%20Stack-4C8CBF?logo=javascript&logoColor=white&style=flat-square)  
+AI-enhanced modular LMS
+
+### 🛍️ Zamaz  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)  
+Serverless e-commerce with dynamic cart
 
 ---
 
-## ✉️ Contact
+## ✉️ Contact  
 
-📧 alimohammad0482@gmail.com  
-🗣️ Languages: English (Professional), Hindi/Urdu (Full Professional)
+📧 **Email:** alimohammad0482@gmail.com  
+🐙 **GitHub:** [MohammadAliiiii](https://github.com/MohammadAliiiii)
 
 ---
 
